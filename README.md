@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello,world! 👋🙏
+
+Welcome to my GitHub profile. I'm a student learning the fundamentals of 0s and 1s in order to make things right.
+Looking forward to learn and collaborate with you!
+You can ask me about how I landed here!😂
+
+P.S. -> GitHub has been really generous to let me know that a README file is so important. 😅
+Hence,behind every rookie....there's a repo full of pages that lets you about stuff.
+
+Feel free to contact me on LinkedIn (@Bhavya Singh) and Twitter(https://twitter.com/bhavyaaa_here)!! 
+See ya on the other side!!
 
 <!--
 **bhavyasingh75/bhavyasingh75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
