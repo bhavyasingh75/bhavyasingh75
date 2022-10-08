@@ -7,7 +7,7 @@ You can ask me about how I landed here!😂
 P.S. -> GitHub has been really generous to let me know that a README file is so important. 😅
 Hence,behind every rookie....there's a repo full of pages that lets you about stuff.
 
-Feel free to contact me on LinkedIn (@Bhavya Singh) and Twitter(https://twitter.com/bhavyaaa_here)!! 
+Feel free to contact me on LinkedIn (@Bhavya Singh) and [Twitter](https://twitter.com/bhavyaaa_here)!! 
 See ya on the other side!!
 
 <!--
