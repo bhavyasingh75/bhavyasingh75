@@ -22,7 +22,7 @@
 
 ---
 ### :woman_technologist: About Me : I am a weebie who loves diving into Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I am passionate about exploring design, development and how AI connect both of them.
+- :telescope: I am passionate about exploring design, development and how AI connects both of them.
 
 - :seedling: Exploring front-End libraries. 😁
 
