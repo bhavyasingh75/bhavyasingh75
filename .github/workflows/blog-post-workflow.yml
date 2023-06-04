@@ -13,5 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "2"
+          node-version: 16
+          max_post_count: "3"
           feed_list: "	https://medium.com/feed/@bhavya.singh220"
