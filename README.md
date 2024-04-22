@@ -52,7 +52,6 @@
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [The Journal of the Cohort Kid Ver. 1.0](https://medium.com/@bhavya.singh220/the-journal-of-the-cohort-kid-ver-1-0-dd4f411b57ee?source=rss-1da8a661ced7------2)
-- [embracing me: how far can I go, how near will I be?](https://medium.com/@bhavya.singh220/embracing-me-how-far-can-i-go-how-near-will-i-be-52ed652da6f7?source=rss-1da8a661ced7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
